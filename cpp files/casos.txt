@@ -1,0 +1,10 @@
+12 abcabcabcabc
+11 abcabcabcab
+1 a
+10 xxxxxxxxxx
+20 abcdabcdabcdabcdabcd
+9 ababababx
+12 abcabcabcabx
+18 123123123123123123
+12 a1b2a1b2a1b2
+12 abcabcabcabz
